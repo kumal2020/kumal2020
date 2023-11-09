@@ -137,10 +137,10 @@
 </table>
 
 <div style="display: inline-block;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rezapace&show_icons=true&locale=en&theme=tokyonight" alt="rezapace" width="400" height="190" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kumal2020&show_icons=true&locale=en&theme=tokyonight" alt="kumal2020" width="400" height="190" />
 </div>
 <div style="display: inline-block;">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight" alt="rezapace" width="400" height="190" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kumal2020&theme=tokyonight" alt="kumal2020" width="400" height="190" />
 </div>
 
 
